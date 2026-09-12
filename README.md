@@ -1,4 +1,4 @@
-# ETL/ELT Pipeline with Apache Airflow + PostgreSQL
+# ELT Pipeline with Apache Airflow + PostgreSQL
 
 A hands-on data engineering project built to learn and demonstrate the core
 skills behind production batch pipelines: orchestration, idempotent data
